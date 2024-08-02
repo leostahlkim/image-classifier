@@ -4,4 +4,4 @@ The following is the code and report for an image classification project as apar
 
 Here is the project specification:
 
-https://www.cs.tufts.edu/cs/135/2023f/projectB.html
+https://www.cs.tufts.edu/cs/135/2023f/projectB.html 
